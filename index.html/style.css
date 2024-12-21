@@ -299,3 +299,46 @@ form button:hover {
     font-size: 1.2rem;
     color: #555;
 }
+
+.post {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 60px 0;
+  }
+  
+  .post-author img{
+    width: 189px;
+    height: 189px;
+    vertical-align: left;
+    
+  }
+  
+  .post-author span {
+    margin-left: 16px;
+  }
+  
+  .post-date {
+    color:#d2d2d2;
+  
+    font-size: 14px;
+    font-weight: bold;
+  
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  .post, .about {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    color: #555;
+    border-color: #2c3e50;
+  }
+  
